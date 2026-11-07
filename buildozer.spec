@@ -14,7 +14,7 @@ requirements = python3,kivy
 orientation = portrait
 fullscreen = 0
 
-android.archs = arm64-v8a
+android.archs = armeabi-v7a
 
 [buildozer]
 
